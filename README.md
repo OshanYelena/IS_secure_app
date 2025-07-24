@@ -43,7 +43,7 @@ PUBLIC_KEY_PATH=certs/your_public_key.pem
 ## 🧪 Run the Server
 
 ```bash
-npm start
+npm run dev
 ```
 
 > Server runs on `http://localhost:3000`
@@ -64,31 +64,5 @@ npm start
 3. ✍️ Messages are **signed with sender’s private key**
 4. ✅ Recipients **verify signature** and **decrypt content**
 
-## 🧪 Testing
 
-```bash
-npm test
-```
 
-## 📁 Folder Structure
-
-```
-secure-chat-backend/
-├── certs/            # Keys and certificates
-├── controllers/
-├── routes/
-├── models/
-├── middleware/
-├── utils/
-└── server.js
-```
-
-## 📜 License
-
-MIT License
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
