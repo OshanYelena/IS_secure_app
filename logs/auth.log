@@ -1,0 +1,20 @@
+[2025-06-20T05:43:25.833Z] User registered: alice
+[2025-06-20T05:43:36.704Z] User logged in: alice
+[2025-06-20T05:50:57.127Z] Certificate verification failed
+[2025-06-20T05:51:53.213Z] Certificate verification failed
+[2025-06-20T05:52:05.975Z] Certificate verification failed
+[2025-06-20T05:53:24.100Z] Certificate verification failed
+[2025-06-20T05:55:38.902Z] Certificate verified successfully
+[2025-06-20T06:00:36.440Z] Session key sent from alice to bob
+[2025-06-20T06:04:58.162Z] Encrypted message sent from alice to bob
+[2025-06-20T06:05:58.974Z] Message received by bob from alice
+[2025-07-24T04:58:59.743Z] User registered: bob
+[2025-07-24T04:59:13.748Z] User logged in: alice
+[2025-07-24T05:06:05.682Z] User logged in: alice
+[2025-07-24T05:08:46.684Z] Certificate verification failed
+[2025-07-24T05:11:58.974Z] Certificate verification failed
+[2025-07-24T05:18:00.351Z] Certificate verification failed
+[2025-07-24T05:19:22.452Z] Session key sent from alice to bob
+[2025-07-24T05:20:28.512Z] Session key from alice accepted by bob
+[2025-07-24T05:21:10.130Z] Encrypted message sent from alice to bob
+[2025-07-24T05:21:52.919Z] Message received by bob from alice
